@@ -1,4 +1,11 @@
 123
 456
 if (YouAreGay == true)
-Jump;
+{
+ Jump;
+}
+
+else
+{
+ die
+}
